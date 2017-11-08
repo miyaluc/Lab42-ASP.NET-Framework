@@ -9,16 +9,19 @@ namespace MvcMovie.Controllers
     public class GoodbyeController : Controller
     {
         // GET: /Goodbye/
-        public string Index()
+        public ActionResult Index()
         {
-            return "Here is my default action.";
+            return View();
+            //return "Here is my default action.";
         }
 
         // GET: /Goodbye/Aloha/ 
 
-        public string Aloha()
+        public string Aloha(string name, int ID = 1)
         {
-            return "Aloha means hello and goodbye....";
+            //return "Aloha means hello and goodbye....";
+            //passing parameter information from the URL to the controller
+            return HttpUtility.HtmlEncode("Hello " + name + ", ID: " + ID);
         }
     }
 }
