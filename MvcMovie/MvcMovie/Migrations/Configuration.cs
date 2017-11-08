@@ -26,7 +26,8 @@ namespace MvcMovie.Migrations
             Title = "Sisterhood of the Treaveling Pants",
             ReleaseDate = DateTime.Parse("2005-1-11"),
             Genre = "Romantic Comedy",
-            Price = 7.99M
+            Price = 7.99M,
+            Rating = "PG-13"
         },
 
         new Film
@@ -34,7 +35,8 @@ namespace MvcMovie.Migrations
             Title = "The Thing",
             ReleaseDate = DateTime.Parse("1984-3-13"),
             Genre = "Horror",
-            Price = 8.99M
+            Price = 8.99M,
+            Rating = "R"
         },
 
         new Film
@@ -42,7 +44,8 @@ namespace MvcMovie.Migrations
             Title = "Bridesmaids",
             ReleaseDate = DateTime.Parse("2012-2-23"),
             Genre = "Comedy",
-            Price = 19.99M
+            Price = 19.99M,
+            Rating = "R"
         },
 
         new Film
@@ -50,7 +53,8 @@ namespace MvcMovie.Migrations
             Title = "Brave",
             ReleaseDate = DateTime.Parse("1959-4-15"),
             Genre = "Family",
-            Price = 3.99M
+            Price = 3.99M,
+            Rating = "PG"
         });
         }
     }

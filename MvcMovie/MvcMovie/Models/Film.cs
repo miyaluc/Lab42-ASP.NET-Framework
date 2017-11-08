@@ -32,6 +32,10 @@ namespace MvcMovie.Models
         {
             get; set;
         }
+        public string Rating
+        {
+            get; set;
+        }
         public class FilmDbContext : DbContext
         {
             public DbSet<Film> Film

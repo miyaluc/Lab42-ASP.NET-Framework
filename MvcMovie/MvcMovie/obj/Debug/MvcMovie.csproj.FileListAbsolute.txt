@@ -94,3 +94,4 @@ C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\Entity
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\shami\source\repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
