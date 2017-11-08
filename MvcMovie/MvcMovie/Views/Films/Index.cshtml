@@ -8,6 +8,18 @@
 
 <p>
     @Html.ActionLink("Create New", "Create")
+
+    @*creates an  opening <form> tag and causes the form to post to itself when the user clicks the Filter button*@
+    @using (Html.BeginForm())
+    {
+        <p>
+            @*drop down list added for users to search by genre*@
+            Genre: @Html.DropDownList("movieGenre", "All")
+            @*textbox added for users to search by keyword*@
+            Title: @Html.TextBox("SearchString")<br />
+            <input type="submit" value="Filter" />
+        </p>
+    }
 </p>
 <table class="table">
     <tr>
