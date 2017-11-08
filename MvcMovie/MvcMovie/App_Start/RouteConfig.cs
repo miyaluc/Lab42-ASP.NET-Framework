@@ -22,7 +22,7 @@ namespace MvcMovie
                     action = "Index",
                     id = UrlParameter.Optional
                 }
-            );
+                    );
         }
     }
 }
