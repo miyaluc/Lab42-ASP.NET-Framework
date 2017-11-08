@@ -17,11 +17,15 @@ namespace MvcMovie.Controllers
 
         // GET: /Goodbye/Aloha/ 
 
-        public string Aloha(string name, int ID = 1)
+        public ActionResult Aloha(string name, int numTimes = 1)
         {
+            ViewBag.Message = "Hello " + name;
+            ViewBag.NumTimes = numTimes;
+
+            return View();
             //return "Aloha means hello and goodbye....";
             //passing parameter information from the URL to the controller
-            return HttpUtility.HtmlEncode("Hello " + name + ", ID: " + ID);
+            //return HttpUtility.HtmlEncode("Hello " + name + ", ID: " + ID);
         }
     }
 }
