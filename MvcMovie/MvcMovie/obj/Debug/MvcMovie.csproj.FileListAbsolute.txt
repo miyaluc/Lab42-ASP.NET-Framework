@@ -88,3 +88,7 @@ C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\shami\Source\Repos\Lab42-ASP.NET-Framework\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
