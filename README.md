@@ -16,10 +16,10 @@
   
 ## ReadMe
 - Your readme should include the following information:
-  - How long did it take you to complete this assignment?
-  - What did you struggle with? Why? How did you solve?
-  - What did you learn during this assignment?
-  - What resources did you utilize for this assingment?
+  - How long did it take you to complete this assignment? It took 4-5 hours to complete this. I have yet to deploy the lab due to issues with my Azure account. 
+  - What did you struggle with? Why? How did you solve? I struggled with a fatal Git error.
+  - What did you learn during this assignment? I learned the differences between ASP.NET and ASP.NET Core as it pertains to building a web app.
+  - What resources did you utilize for this assingment? the tutorial provided in the class repo
   - Link to Azure
 
 ## Rubric
